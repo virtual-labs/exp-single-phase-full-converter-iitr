@@ -76,7 +76,7 @@ The rms of output current is<br>
 
 <center>
 
-$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {V_{max}}{R} \left[ \frac {\pi-\alpha}{2\pi} + \frac {sin2\alpha}{4\pi} \right]^{1/2}..........(4)$$
+$$I_{o~rms} = \frac {V_{o~rms}}{R} = \frac {V_{max}}{R} \left[\frac {\pi-\alpha}{2\pi} + \frac {sin2\alpha}{4\pi} \right]^{1/2}..........(4)$$
 
 </center>
 
